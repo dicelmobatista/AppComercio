@@ -1,0 +1,6 @@
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\bin\Debug\AppProduto.exe.config
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\bin\Debug\AppProduto.exe
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\bin\Debug\AppProduto.pdb
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\obj\Debug\SistemaComercial.csprojResolveAssemblyReference.cache
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\obj\Debug\AppProduto.exe
+D:\C#\UDEMY\PRODUTO\AppProduto\AppProduto\obj\Debug\AppProduto.pdb
